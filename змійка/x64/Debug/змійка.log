@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\IRA\OneDrive\Документы\Програмування\змійка\змійка\Source.cpp(75,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\IRA\OneDrive\Документы\Програмування\змійка\змійка\Source.cpp(74,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\IRA\OneDrive\Документы\Програмування\змійка\змійка\Source.cpp(299,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\IRA\OneDrive\Документы\Програмування\змійка\змійка\Source.cpp(298,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  змійка.vcxproj -> C:\Users\IRA\OneDrive\Документы\Програмування\змійка\x64\Debug\змійка.exe
